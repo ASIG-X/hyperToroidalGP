@@ -2,6 +2,17 @@
 This repository contains the implementation of defining Gaussian processes on hypertoroidal manifolds. Detailed information can be found in our paper on [arXiv](https://arxiv.org/abs/2303.06799).
 
 The work has been publlished on 2024 European Control Conference (ECC).
+## BibTex Citation
+Thank you for citing our paper if you use any of this code:
+```
+@InProceedings{ECC24_Cao,
+  title={Gaussian Process on the Product of Directional Manifolds},
+  author={Cao, Ziyu and Li, Kailai},
+  booktitle={Proceedings of the 2024 European Control Conference},
+  month={June},
+  year={2024}
+}
+```
 ## Dependencies
 * [Manopt](https://www.manopt.org/)
 * [libDirectional](https://github.com/KIT-ISAS/libDirectional)
